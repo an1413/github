@@ -1,0 +1,4 @@
+﻿  final2.c
+C:\Users\user\Desktop\final_exam\final2.c(7,8): warning C4101: 'answer' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\final_exam\final2.c(25,10): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+  final_exam.vcxproj -> C:\Users\user\Desktop\final_exam\Debug\final_exam.exe
