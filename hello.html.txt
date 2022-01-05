@@ -13,7 +13,7 @@
 	language = “Javascript ”;  
 	document.write(“language” + is + “very useful”);
 	  document.write(language + “is ” + “very useful”);
-	
+	ㄴㅁㅇㄹㄴㅁㅇㄹ
 </script>
 </body>
 </html>
